@@ -1,0 +1,10 @@
+##aplicacion del clima - curso node
+
+
+recuerden ejecutar ```npm install``` para las librerias
+node app -d "Madrid Espania"
+
+###Ejemplo
+```
+node app -d "Madrid Espania"
+```
